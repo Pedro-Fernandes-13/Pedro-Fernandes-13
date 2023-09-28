@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fernandes-rocha-neto-610470255/)
 
-## I am constantly studying and practicing and my main language at the moment is c sharp
+## I am constantly studying and practicing object-oriented programming
 
 ( C sharp is my main language )
 I also have knowledge of HTML CSS3 and Javascript, but my focus is mobile development with .NET muai.

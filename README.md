@@ -5,8 +5,9 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fernandes-rocha-neto-610470255/)
 
 ## I am constantly studying and practicing and my main language at the moment is c sharp
-## C sharp is my main language 
- main language is C# but I also have knowledge of HTML CSS3 and Javascript, my focus is mobile development with .NET muai
+
+( C sharp is my main language )
+main language is C# but I also have knowledge of HTML CSS3 and Javascript, my focus is mobile development with .NET muai
 
 programming fascinates me, we can create a world, we just don't know it yet.
 <!--
